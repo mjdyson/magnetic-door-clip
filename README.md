@@ -9,7 +9,10 @@ The provided STL files are sized to accommodate
 * 3mm foam thickness
 * 0.8mm VHB tape thickness
 
-The provided f3d file is parameterised to allow editing of the total thickness. This adjusts the latch design to accommodate.
+Design features:
+* Holes for heatset inserts are provided.
+* F3d file is parameterised to allow editing of the total thickness. This adjusts the latch design to accommodate different sized foam/panels
+* Only a single 6mm x 3mm magnetic disc is required as the M3 caphead screw provides the magnetic counterpart
 
 Please raise issues if you'd like to suggest changes.
 

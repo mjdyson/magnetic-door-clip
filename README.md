@@ -7,7 +7,7 @@ https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzale
 The provided STL files are sized to accommodate
 * 2mm panel thickness
 * 3mm foam thickness
-* 0.8mm VHB tape thickness
+* 0.8mm VHB tape thickness (for attaching the clip to the panel)
 
 Design features:
 * Holes for heatset inserts are provided.
